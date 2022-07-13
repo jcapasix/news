@@ -5,9 +5,9 @@
       location = "group:Presentation/Presentation.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Data/Data.xcodeproj">
+      location = "group:Domain/Domain.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Domain/Domain.xcodeproj">
+      location = "group:Data/Data.xcodeproj">
    </FileRef>
 </Workspace>

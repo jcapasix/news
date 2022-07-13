@@ -1,0 +1,914 @@
+{
+  "hits": [
+    {
+      "created_at": "2022-07-13T01:57:31.000Z",
+      "title": null,
+      "url": null,
+      "author": "bambax",
+      "points": null,
+      "story_text": null,
+      "comment_text": "I&#x27;ve posted this elsewhere in this thread, but I&#x27;m making a webapp focused on just sight reading: <a href=\"https:&#x2F;&#x2F;www.babeloop.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.babeloop.com</a><p>It works well on mobile so you can take it wherever. I made it for my kids who were struggling a little with non-treble clefs, and they passed their exams this June!<p>Interested in any feedback.",
+      "num_comments": null,
+      "story_id": 32023881,
+      "story_title": "Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI",
+      "story_url": "https://github.com/ZaneH/piano-trainer",
+      "parent_id": 32042003,
+      "created_at_i": 1657677451,
+      "_tags": [
+        "comment",
+        "author_bambax",
+        "story_32023881"
+      ],
+      "objectID": "32078186",
+      "_highlightResult": {
+        "author": {
+          "value": "bambax",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I've posted this elsewhere in this thread, but I'm making a webapp focused on just sight reading: <a href=\"https://www.babeloop.com\" rel=\"nofollow\">https://www.babeloop.com</a><p>It works well on <em>mobile</em> so you can take it wherever. I made it for my kids who were struggling a little with non-treble clefs, and they passed their exams this June!<p>Interested in any feedback.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://github.com/ZaneH/piano-trainer",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-13T01:56:23.000Z",
+      "title": null,
+      "url": null,
+      "author": "asciiresort",
+      "points": null,
+      "story_text": null,
+      "comment_text": "I am well aware that Japan imports food.<p>The point is not about whether a country imports at all, but whether it can mobilize domestic production of essential food crops in times of crisis.<p>Even China import and has rice reserves. There is a reason these government have and subsidized rice reserves rather tea reserves.",
+      "num_comments": null,
+      "story_id": 32077834,
+      "story_title": "Why Sri Lanka is having an economic crisis",
+      "story_url": "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic",
+      "parent_id": 32078072,
+      "created_at_i": 1657677383,
+      "_tags": [
+        "comment",
+        "author_asciiresort",
+        "story_32077834"
+      ],
+      "objectID": "32078176",
+      "_highlightResult": {
+        "author": {
+          "value": "asciiresort",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I am well aware that Japan imports food.<p>The point is not about whether a country imports at all, but whether it can <em>mobili</em>ze domestic production of essential food crops in times of crisis.<p>Even China import and has rice reserves. There is a reason these government have and subsidized rice reserves rather tea reserves.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Why Sri Lanka is having an economic crisis",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-13T01:53:42.000Z",
+      "title": null,
+      "url": null,
+      "author": "asciiresort",
+      "points": null,
+      "story_text": null,
+      "comment_text": "That’s my point about Japan.<p>Rice, unlike tea, is a defensive measure for times of crisis. Even as Japan imports food, the point is whether the country can quickly mobilize and ramp up to essential food crops. The point is having options and a hedge, which allows you leverage during economic negotiations for other things.<p>The percentage of imports you can have should be bounded by the runway and time horizon you have.<p>It seems Sri Lanka went all in on one crop without a hedge, and it would infeasibly take years to convert.",
+      "num_comments": null,
+      "story_id": 32077834,
+      "story_title": "Why Sri Lanka is having an economic crisis",
+      "story_url": "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic",
+      "parent_id": 32078134,
+      "created_at_i": 1657677222,
+      "_tags": [
+        "comment",
+        "author_asciiresort",
+        "story_32077834"
+      ],
+      "objectID": "32078160",
+      "_highlightResult": {
+        "author": {
+          "value": "asciiresort",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "That’s my point about Japan.<p>Rice, unlike tea, is a defensive measure for times of crisis. Even as Japan imports food, the point is whether the country can quickly <em>mobili</em>ze and ramp up to essential food crops. The point is having options and a hedge, which allows you leverage during economic negotiations for other things.<p>The percentage of imports you can have should be bounded by the runway and time horizon you have.<p>It seems Sri Lanka went all in on one crop without a hedge, and it would infeasibly take years to convert.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Why Sri Lanka is having an economic crisis",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-13T01:52:09.000Z",
+      "title": null,
+      "url": null,
+      "author": "bambax",
+      "points": null,
+      "story_text": null,
+      "comment_text": "I&#x27;m making a webapp to learn sight reading (only sight reading, not playing the keyboard or any other instrument for that matter): <a href=\"https:&#x2F;&#x2F;babeloop.com\" rel=\"nofollow\">https:&#x2F;&#x2F;babeloop.com</a><p>It works well on mobile and so you can use it anywhere.<p>I&#x27;m just getting started. Interested in any feedback!",
+      "num_comments": null,
+      "story_id": 32023881,
+      "story_title": "Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI",
+      "story_url": "https://github.com/ZaneH/piano-trainer",
+      "parent_id": 32075680,
+      "created_at_i": 1657677129,
+      "_tags": [
+        "comment",
+        "author_bambax",
+        "story_32023881"
+      ],
+      "objectID": "32078144",
+      "_highlightResult": {
+        "author": {
+          "value": "bambax",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I'm making a webapp to learn sight reading (only sight reading, not playing the keyboard or any other instrument for that matter): <a href=\"https://babeloop.com\" rel=\"nofollow\">https://babeloop.com</a><p>It works well on <em>mobile</em> and so you can use it anywhere.<p>I'm just getting started. Interested in any feedback!",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://github.com/ZaneH/piano-trainer",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-13T01:13:03.000Z",
+      "title": null,
+      "url": null,
+      "author": "Hydraulix989",
+      "points": null,
+      "story_text": null,
+      "comment_text": "No. They are as academically rigorous but not nearly as good for networking or upward mobility",
+      "num_comments": null,
+      "story_id": 32051703,
+      "story_title": "People from elite backgrounds increasingly dominate academia, data shows",
+      "story_url": "https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/",
+      "parent_id": 32055118,
+      "created_at_i": 1657674783,
+      "_tags": [
+        "comment",
+        "author_Hydraulix989",
+        "story_32051703"
+      ],
+      "objectID": "32077866",
+      "_highlightResult": {
+        "author": {
+          "value": "Hydraulix989",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "No. They are as academically rigorous but not nearly as good for networking or upward <em>mobili</em>ty",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "People from elite backgrounds increasingly dominate academia, data shows",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T23:54:42.000Z",
+      "title": null,
+      "url": null,
+      "author": "justasitsounds",
+      "points": null,
+      "story_text": null,
+      "comment_text": "My house is in a mobile phone blackspot - no reception on any network. I tell every guest if they want to receive or make calls they have to join my wifi and enable wifi calling.",
+      "num_comments": null,
+      "story_id": 32069926,
+      "story_title": "Guest WiFi using a QR code",
+      "story_url": "https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html",
+      "parent_id": 32076333,
+      "created_at_i": 1657670082,
+      "_tags": [
+        "comment",
+        "author_justasitsounds",
+        "story_32069926"
+      ],
+      "objectID": "32077351",
+      "_highlightResult": {
+        "author": {
+          "value": "justasitsounds",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "My house is in a <em>mobile</em> phone blackspot - no reception on any network. I tell every guest if they want to receive or make calls they have to join my wifi and enable wifi calling.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Guest WiFi using a QR code",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T22:39:30.000Z",
+      "title": null,
+      "url": null,
+      "author": "Schinken_",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Welcome to Germany where your mobile plan is expensive and Limited.<p>Also: Traffic limits suck",
+      "num_comments": null,
+      "story_id": 32069926,
+      "story_title": "Guest WiFi using a QR code",
+      "story_url": "https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html",
+      "parent_id": 32076333,
+      "created_at_i": 1657665570,
+      "_tags": [
+        "comment",
+        "author_Schinken_",
+        "story_32069926"
+      ],
+      "objectID": "32076667",
+      "_highlightResult": {
+        "author": {
+          "value": "Schinken_",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Welcome to Germany where your <em>mobile</em> plan is expensive and Limited.<p>Also: Traffic limits suck",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Guest WiFi using a QR code",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T22:24:40.000Z",
+      "title": null,
+      "url": null,
+      "author": "giantrobot",
+      "points": null,
+      "story_text": null,
+      "comment_text": "&gt; Do people not have their phones on and connected to the internet 24&#x2F;7 in case they receive a message?<p>A device able to receive a notification is not the same as listening on a socket 24&#x2F;7. Push notifications on mobile go through the platform&#x27;s push notification system lest they kill the device&#x27;s battery. A push notification doesn&#x27;t wake up a device and power up all the radios to stream masses of data.<p>Apps on mobile devices can be killed at any time, they&#x27;re extremely unreliable as servers of content. Laptops are little better as servers of content.<p>I don&#x27;t understand why you&#x27;d <i>want</i> social media content to only favor popular and recent content. Why would you want a built-in memory hole in the system?",
+      "num_comments": null,
+      "story_id": 32067962,
+      "story_title": "Sufficient Decentralization for Social Networks",
+      "story_url": "https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks",
+      "parent_id": 32074439,
+      "created_at_i": 1657664680,
+      "_tags": [
+        "comment",
+        "author_giantrobot",
+        "story_32067962"
+      ],
+      "objectID": "32076498",
+      "_highlightResult": {
+        "author": {
+          "value": "giantrobot",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "&gt; Do people not have their phones on and connected to the internet 24/7 in case they receive a message?<p>A device able to receive a notification is not the same as listening on a socket 24/7. Push notifications on <em>mobile</em> go through the platform's push notification system lest they kill the device's battery. A push notification doesn't wake up a device and power up all the radios to stream masses of data.<p>Apps on <em>mobile</em> devices can be killed at any time, they're extremely unreliable as servers of content. Laptops are little better as servers of content.<p>I don't understand why you'd <i>want</i> social media content to only favor popular and recent content. Why would you want a built-in memory hole in the system?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Sufficient Decentralization for Social Networks",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T22:10:55.000Z",
+      "title": null,
+      "url": null,
+      "author": "prmoustache",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Who asks for wifi in 2022? Everybody has a mobile data plan these days.",
+      "num_comments": null,
+      "story_id": 32069926,
+      "story_title": "Guest WiFi using a QR code",
+      "story_url": "https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html",
+      "parent_id": 32069926,
+      "created_at_i": 1657663855,
+      "_tags": [
+        "comment",
+        "author_prmoustache",
+        "story_32069926"
+      ],
+      "objectID": "32076333",
+      "_highlightResult": {
+        "author": {
+          "value": "prmoustache",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Who asks for wifi in 2022? Everybody has a <em>mobile</em> data plan these days.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Guest WiFi using a QR code",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T22:05:01.000Z",
+      "title": null,
+      "url": null,
+      "author": "DoesntMatter22",
+      "points": null,
+      "story_text": null,
+      "comment_text": "How many people actually use a mobile browser to make things smaller. Usage is probably 1 percent. He has a valid issue",
+      "num_comments": null,
+      "story_id": 32054532,
+      "story_title": "Building a Cache in Elixir",
+      "story_url": "https://www.openmymind.net/Building-A-Cache-In-Elixir/",
+      "parent_id": 32067801,
+      "created_at_i": 1657663501,
+      "_tags": [
+        "comment",
+        "author_DoesntMatter22",
+        "story_32054532"
+      ],
+      "objectID": "32076278",
+      "_highlightResult": {
+        "author": {
+          "value": "DoesntMatter22",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "How many people actually use a <em>mobile</em> browser to make things smaller. Usage is probably 1 percent. He has a valid issue",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Building a Cache in Elixir",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://www.openmymind.net/Building-A-Cache-In-Elixir/",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T21:58:09.000Z",
+      "title": "Solana DApp support now available for Brave Wallet desktop, mobile coming soon",
+      "url": "https://brave.com/1.41-release/",
+      "author": "DocFeind",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1657663089,
+      "_tags": [
+        "story",
+        "author_DocFeind",
+        "story_32076224"
+      ],
+      "objectID": "32076224",
+      "_highlightResult": {
+        "title": {
+          "value": "Solana DApp support now available for Brave Wallet desktop, <em>mobile</em> coming soon",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "url": {
+          "value": "https://brave.com/1.41-release/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "DocFeind",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T21:48:02.000Z",
+      "title": null,
+      "url": null,
+      "author": "xorcist",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Why is it not a schoolbook example of public key crypto?<p>&quot;I am fob&quot;, &quot;Checks out, I am car&quot;, &quot;Checks out, please open&quot;, &quot;Ok&quot;.<p>Add some details such as nonces but not nothing out of the ordinary compared to things like mTLS or mobile phones that we use every day. What am I not seeing?",
+      "num_comments": null,
+      "story_id": 32066201,
+      "story_title": "Rolling-PWN vulnerability affects all Honda vehicles",
+      "story_url": "https://rollingpwn.github.io/rolling-pwn/",
+      "parent_id": 32070880,
+      "created_at_i": 1657662482,
+      "_tags": [
+        "comment",
+        "author_xorcist",
+        "story_32066201"
+      ],
+      "objectID": "32076109",
+      "_highlightResult": {
+        "author": {
+          "value": "xorcist",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Why is it not a schoolbook example of public key crypto?<p>&quot;I am fob&quot;, &quot;Checks out, I am car&quot;, &quot;Checks out, please open&quot;, &quot;Ok&quot;.<p>Add some details such as nonces but not nothing out of the ordinary compared to things like mTLS or <em>mobile</em> phones that we use every day. What am I not seeing?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Rolling-PWN vulnerability affects all Honda vehicles",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://rollingpwn.github.io/rolling-pwn/",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T21:28:27.000Z",
+      "title": null,
+      "url": null,
+      "author": "tomnipotent",
+      "points": null,
+      "story_text": null,
+      "comment_text": "&gt; Employment for a lifetime is a thing of another historical moment<p>Not sure such moment has ever existed. If employment was lifetime, it was either slavery or exploitation of a workforce that lacked mobility. There was maybe a generation of baby boomers that got lucky with a generation of companies that grew up with them and is still paying for their pensions, but otherwise history is not kind to workers.",
+      "num_comments": null,
+      "story_id": 32065021,
+      "story_title": "Talking about layoffs",
+      "story_url": "https://angelariggs.github.io/articles/talking-about-layoffs",
+      "parent_id": 32065574,
+      "created_at_i": 1657661307,
+      "_tags": [
+        "comment",
+        "author_tomnipotent",
+        "story_32065021"
+      ],
+      "objectID": "32075919",
+      "_highlightResult": {
+        "author": {
+          "value": "tomnipotent",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "&gt; Employment for a lifetime is a thing of another historical moment<p>Not sure such moment has ever existed. If employment was lifetime, it was either slavery or exploitation of a workforce that lacked <em>mobili</em>ty. There was maybe a generation of baby boomers that got lucky with a generation of companies that grew up with them and is still paying for their pensions, but otherwise history is not kind to workers.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Talking about layoffs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://angelariggs.github.io/articles/talking-about-layoffs",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T21:27:50.000Z",
+      "title": null,
+      "url": null,
+      "author": "collaborative",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Past a certain resolution, mobile devices automatically scale down images. This is hard to see in real-world images like pictures&#x2F;galaxies. But try to open a really large image with some text in it and you will surely see how the text has turned blurry",
+      "num_comments": null,
+      "story_id": 32071020,
+      "story_title": "James Webb first images – complete set of high resolution shots now live",
+      "story_url": "https://webbtelescope.org/news/news-releases?Collection=First%20Images",
+      "parent_id": 32073578,
+      "created_at_i": 1657661270,
+      "_tags": [
+        "comment",
+        "author_collaborative",
+        "story_32071020"
+      ],
+      "objectID": "32075914",
+      "_highlightResult": {
+        "author": {
+          "value": "collaborative",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Past a certain resolution, <em>mobile</em> devices automatically scale down images. This is hard to see in real-world images like pictures/galaxies. But try to open a really large image with some text in it and you will surely see how the text has turned blurry",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "James Webb first images – complete set of high resolution shots now live",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://webbtelescope.org/news/news-releases?Collection=First%20Images",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T21:14:13.000Z",
+      "title": null,
+      "url": null,
+      "author": "tobinharris",
+      "points": null,
+      "story_text": null,
+      "comment_text": "I run a mobile app agency like you and we do pretty well selling GaSaaS.<p>I&#x27;m a developer but have studied sales quite a lot over the last 10 years. The most important thing I learned is to find clients that fit you really well when it comes to skills, culture and budget.<p>To do this you have to give a shit and not be afraid to ask potentially off-putting questions. Stuff like:<p>&quot;Are you sure you want to build this app, your business case doesn&#x27;t add up so why bother?&quot;<p>&quot;Can you demonstrate you&#x27;re in this for the long haul? There&#x27;s no joy in building an app that fails, which is what happens if you don&#x27;t budget to iterate your app.&quot;<p>&quot;How come you don&#x27;t hire freelancers or contractors, it will cost you less?&quot;<p>Obviously I ask nicer questions too, but these are good &quot;give a shit enough to risk losing the sale&quot; kind of questions.",
+      "num_comments": null,
+      "story_id": 32071349,
+      "story_title": "Giving a shit as a service",
+      "story_url": "https://allenpike.com/2022/giving-a-shit",
+      "parent_id": 32071349,
+      "created_at_i": 1657660453,
+      "_tags": [
+        "comment",
+        "author_tobinharris",
+        "story_32071349"
+      ],
+      "objectID": "32075774",
+      "_highlightResult": {
+        "author": {
+          "value": "tobinharris",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I run a <em>mobile</em> app agency like you and we do pretty well selling GaSaaS.<p>I'm a developer but have studied sales quite a lot over the last 10 years. The most important thing I learned is to find clients that fit you really well when it comes to skills, culture and budget.<p>To do this you have to give a shit and not be afraid to ask potentially off-putting questions. Stuff like:<p>&quot;Are you sure you want to build this app, your business case doesn't add up so why bother?&quot;<p>&quot;Can you demonstrate you're in this for the long haul? There's no joy in building an app that fails, which is what happens if you don't budget to iterate your app.&quot;<p>&quot;How come you don't hire freelancers or contractors, it will cost you less?&quot;<p>Obviously I ask nicer questions too, but these are good &quot;give a shit enough to risk losing the sale&quot; kind of questions.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Giving a shit as a service",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://allenpike.com/2022/giving-a-shit",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T21:07:54.000Z",
+      "title": null,
+      "url": null,
+      "author": "hn_throwaway_99",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Which is why I linked the related recent HN post about tons of different brands, across tech and fashion, that wiped out any trace of their individuality for bold, sans-serif logos.<p>I agree, I think this designer is just a particularly shitty designer, but he&#x27;s a shitty designer that&#x27;s just copying the broader trend of minimalist design laziness. I think the last section in that linked HN article (<a href=\"https:&#x2F;&#x2F;velvetshark.com&#x2F;articles&#x2F;why-do-brands-change-their-logos-and-look-like-everyone-else\" rel=\"nofollow\">https:&#x2F;&#x2F;velvetshark.com&#x2F;articles&#x2F;why-do-brands-change-their-...</a>) <i>perfectly</i> points out what went wrong in the Tropicana redesign as well:<p>&gt; There’s nothing bad in wanting your logo to look simpler, better, mobile-ready, or universal enough to appeal to the broadest possible audience.<p>&gt; But don&#x27;t throw the baby out with the bathwater.<p>&gt; Shoot for simplicity and legibility, but keep your distinguishing features. Don’t throw away what the brand has been working on for decades.<p>&gt; Otherwise, you may end up in a situation where you could slap any logo on any product and hardly anyone would notice a difference:",
+      "num_comments": null,
+      "story_id": 32064324,
+      "story_title": "Pepsi: Breathtaking Design Strategy (2008) [pdf]",
+      "story_url": "https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf",
+      "parent_id": 32066439,
+      "created_at_i": 1657660074,
+      "_tags": [
+        "comment",
+        "author_hn_throwaway_99",
+        "story_32064324"
+      ],
+      "objectID": "32075704",
+      "_highlightResult": {
+        "author": {
+          "value": "hn_throwaway_99",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Which is why I linked the related recent HN post about tons of different brands, across tech and fashion, that wiped out any trace of their individuality for bold, sans-serif logos.<p>I agree, I think this designer is just a particularly shitty designer, but he's a shitty designer that's just copying the broader trend of minimalist design laziness. I think the last section in that linked HN article (<a href=\"https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else\" rel=\"nofollow\">https://velvetshark.com/articles/why-do-brands-change-their-...</a>) <i>perfectly</i> points out what went wrong in the Tropicana redesign as well:<p>&gt; There’s nothing bad in wanting your logo to look simpler, better, <em>mobile</em>-ready, or universal enough to appeal to the broadest possible audience.<p>&gt; But don't throw the baby out with the bathwater.<p>&gt; Shoot for simplicity and legibility, but keep your distinguishing features. Don’t throw away what the brand has been working on for decades.<p>&gt; Otherwise, you may end up in a situation where you could slap any logo on any product and hardly anyone would notice a difference:",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Pepsi: Breathtaking Design Strategy (2008) [pdf]",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T20:42:24.000Z",
+      "title": null,
+      "url": null,
+      "author": "kevincox",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Honestly if it wasn&#x27;t for the spam filtering I may we&#x27;ll have stayed with them. I did configure Thunderbird&#x27;s spam filtering and it did bridge the gap quite well but it wasn&#x27;t ideal to have to sit it up and train it on multiple machines and then have less filtering on mobile when my computer was off. It also had some poor interactions such as setting the unread count for my spamd folder which I find very annoying because the message was moved there.",
+      "num_comments": null,
+      "story_id": 32068975,
+      "story_title": "Ask HN: Good private email host with IMAP?",
+      "story_url": null,
+      "parent_id": 32075327,
+      "created_at_i": 1657658544,
+      "_tags": [
+        "comment",
+        "author_kevincox",
+        "story_32068975"
+      ],
+      "objectID": "32075404",
+      "_highlightResult": {
+        "author": {
+          "value": "kevincox",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Honestly if it wasn't for the spam filtering I may we'll have stayed with them. I did configure Thunderbird's spam filtering and it did bridge the gap quite well but it wasn't ideal to have to sit it up and train it on multiple machines and then have less filtering on <em>mobile</em> when my computer was off. It also had some poor interactions such as setting the unread count for my spamd folder which I find very annoying because the message was moved there.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Ask HN: Good private email host with IMAP?",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T20:29:56.000Z",
+      "title": null,
+      "url": null,
+      "author": "donmcronald",
+      "points": null,
+      "story_text": null,
+      "comment_text": "&gt; Outlook now put feature XYZ&quot; (in the case that comes to my mind, the CC bar which used to be tab-reachable, now you have to tab+space or manually click on the tiny gray &quot;cc&quot; letters)<p>I can sort of understand wanting to hide stuff on mobile, but the discovery of controls to unhide things should be better.  I often help people that are stuck trying to figure out how to do something in an app and not realizing they can click on something that gives no indication it&#x27;s clickable is a common thing.<p>Desktop is another world.  I often have 20+ inches of horizontal space and a hamburger menu.  It&#x27;s infuriating, especially when the hamburger menu is hiding <i>one</i> button.",
+      "num_comments": null,
+      "story_id": 32068647,
+      "story_title": "A/B testing gets misused to juice metrics in the short term",
+      "story_url": "https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/",
+      "parent_id": 32069424,
+      "created_at_i": 1657657796,
+      "_tags": [
+        "comment",
+        "author_donmcronald",
+        "story_32068647"
+      ],
+      "objectID": "32075245",
+      "_highlightResult": {
+        "author": {
+          "value": "donmcronald",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "&gt; Outlook now put feature XYZ&quot; (in the case that comes to my mind, the CC bar which used to be tab-reachable, now you have to tab+space or manually click on the tiny gray &quot;cc&quot; letters)<p>I can sort of understand wanting to hide stuff on <em>mobile</em>, but the discovery of controls to unhide things should be better.  I often help people that are stuck trying to figure out how to do something in an app and not realizing they can click on something that gives no indication it's clickable is a common thing.<p>Desktop is another world.  I often have 20+ inches of horizontal space and a hamburger menu.  It's infuriating, especially when the hamburger menu is hiding <i>one</i> button.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "A/B testing gets misused to juice metrics in the short term",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T19:37:38.000Z",
+      "title": "Ask HN: Are you cutting back on subscription services?",
+      "url": null,
+      "author": "gardenhedge",
+      "points": 38,
+      "story_text": "With a recession looming and inflation already here, are you cutting back on any subscription services?<p>I have recently gotten rid of Spotify, Amazon Prime, my paid email service, Playstation Network.<p>I still have Google One (I use Photos, Mobile VPN, switched back to GMail, Google Calendar). I am currently on a trial of Youtube Premium (with Youtube Music) but I probably won&#x27;t keep it.<p>I still have iCloud extra storage, Dropbox, GoPro cloud, Netflix and Disney+.",
+      "comment_text": null,
+      "num_comments": 38,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1657654658,
+      "_tags": [
+        "story",
+        "author_gardenhedge",
+        "story_32074667",
+        "ask_hn"
+      ],
+      "objectID": "32074667",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: Are you cutting back on subscription services?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "gardenhedge",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "With a recession looming and inflation already here, are you cutting back on any subscription services?<p>I have recently gotten rid of Spotify, Amazon Prime, my paid email service, Playstation Network.<p>I still have Google One (I use Photos, <em>Mobile</em> VPN, switched back to GMail, Google Calendar). I am currently on a trial of Youtube Premium (with Youtube Music) but I probably won't keep it.<p>I still have iCloud extra storage, Dropbox, GoPro cloud, Netflix and Disney+.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-12T19:31:35.000Z",
+      "title": null,
+      "url": null,
+      "author": "nikasvan",
+      "points": null,
+      "story_text": null,
+      "comment_text": "<p><pre><code>      Location: Tbilisi, Georgia\n\n      Remote: Yes\n\n      Willing to relocate: No\n\n      Technologies: TypeScript, JavaScript, React &#x2F; React Native, Redux &#x2F; MobX &#x2F; React Query, HTML &#x2F; CSS, React Testing Library, Jest\n\n      Résumé&#x2F;CV: https:&#x2F;&#x2F;cutt.ly&#x2F;xLnIDRh\n\n      Email: svanidze.nikoloz@gmail.com\n</code></pre>\nSenior Software Engineer primarily focusing on Front-end web&#x2F;mobile development.<p>Have been working remotely for 8+ years and can collaborate productively in asynchronous teams.<p>Contributed to several open-source projects(React Navigation, Grafana Labs &amp; DAO panel).<p>Currently searching for interesting full-time(remote) opportunities where I would be a good fit with my experience and provide the most value.<p>Looking forward to hearing from you: <a href=\"https:&#x2F;&#x2F;calendly.com&#x2F;nick-svanidze&#x2F;30min\" rel=\"nofollow\">https:&#x2F;&#x2F;calendly.com&#x2F;nick-svanidze&#x2F;30min</a>",
+      "num_comments": null,
+      "story_id": 31947295,
+      "story_title": "Ask HN: Who wants to be hired? (July 2022)",
+      "story_url": null,
+      "parent_id": 31947295,
+      "created_at_i": 1657654295,
+      "_tags": [
+        "comment",
+        "author_nikasvan",
+        "story_31947295"
+      ],
+      "objectID": "32074609",
+      "_highlightResult": {
+        "author": {
+          "value": "nikasvan",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "<p><pre><code>      Location: Tbilisi, Georgia\n\n      Remote: Yes\n\n      Willing to relocate: No\n\n      Technologies: TypeScript, JavaScript, React / React Native, Redux / MobX / React Query, HTML / CSS, React Testing Library, Jest\n\n      Résumé/CV: https://cutt.ly/xLnIDRh\n\n      Email: svanidze.nikoloz@gmail.com\n</code></pre>\nSenior Software Engineer primarily focusing on Front-end web/<em>mobile</em> development.<p>Have been working remotely for 8+ years and can collaborate productively in asynchronous teams.<p>Contributed to several open-source projects(React Navigation, Grafana Labs &amp; DAO panel).<p>Currently searching for interesting full-time(remote) opportunities where I would be a good fit with my experience and provide the most value.<p>Looking forward to hearing from you: <a href=\"https://calendly.com/nick-svanidze/30min\" rel=\"nofollow\">https://calendly.com/nick-svanidze/30min</a>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "mobile"
+          ]
+        },
+        "story_title": {
+          "value": "Ask HN: Who wants to be hired? (July 2022)",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 271494,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": true,
+  "query": "mobile",
+  "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&query=mobile",
+  "processingTimeMS": 6
+}
