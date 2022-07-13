@@ -21,10 +21,23 @@ class NewsViewController: UIViewController  {
     var router: NewsRouterProtocol?
     @IBOutlet weak var newsTableView: UITableView!
     
+    lazy var refreshControl: UIRefreshControl = {
+        let refreshControl = UIRefreshControl()
+        refreshControl.addTarget(self,
+                                 action: #selector(NewsViewController.handleRefresh(_:)),
+                                 for: UIControl.Event.valueChanged)
+        refreshControl.tintColor = UIColor.blue
+        return refreshControl
+    }()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         prepareTableView()
         NewsConfigurator.configure(self)
+        fetchNews()
+    }
+    
+    private func fetchNews() {
         if let presenter = presenter {
             presenter.fetchNews()
         }
@@ -35,6 +48,12 @@ class NewsViewController: UIViewController  {
         newsTableView.delegate = self
         newsTableView.dataSource = self
         newsTableView.register(UINib(nibName: "NewTableViewCell", bundle: nil), forCellReuseIdentifier: "NewTableViewCell")
+        newsTableView.addSubview(self.refreshControl)
+    }
+    
+    @objc func handleRefresh(_ refreshControl: UIRefreshControl) {
+        refreshControl.endRefreshing()
+        fetchNews()
     }
     
 }
