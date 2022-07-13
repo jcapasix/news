@@ -7,6 +7,7 @@
 
 import UIKit
 import Domain
+import Data
 
 protocol NewsViewProtocol: AnyObject {
     var presenter: NewsPresenterPortocol? { get set }
@@ -20,6 +21,7 @@ class NewsViewController: UIViewController  {
     var presenter: NewsPresenterPortocol?
     var router: NewsRouterProtocol?
     @IBOutlet weak var newsTableView: UITableView!
+    @IBOutlet weak var loadingView: UIActivityIndicatorView!
     
     lazy var refreshControl: UIRefreshControl = {
         let refreshControl = UIRefreshControl()
@@ -39,6 +41,8 @@ class NewsViewController: UIViewController  {
     
     private func fetchNews() {
         if let presenter = presenter {
+            loadingView.startAnimating()
+            loadingView.isHidden = false
             presenter.fetchNews()
         }
     }
@@ -67,7 +71,7 @@ extension NewsViewController: UITableViewDelegate, UITableViewDataSource {
         guard let cell = tableView.dequeueReusableCell(withIdentifier: "NewTableViewCell", for: indexPath) as? NewTableViewCell else {
             return UITableViewCell()
         }
-        cell.dateLabel.text = newsLista[indexPath.row].date
+        cell.dateLabel.text = "\(newsLista[indexPath.row].date)"
         cell.descriptionLabel.text = newsLista[indexPath.row].title
         return cell
     }
@@ -78,8 +82,8 @@ extension NewsViewController: UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, trailingSwipeActionsConfigurationForRowAt indexPath: IndexPath) -> UISwipeActionsConfiguration? {
-        let deleteAction = UIContextualAction(style: .destructive, title: nil) { (_, _,completionHandler) in
-            completionHandler(true)
+        let deleteAction = UIContextualAction(style: .destructive, title: nil) { _,_,_ in
+            self.presenter?.removeNews(new: self.newsLista[indexPath.row])
         }
         deleteAction.image = UIImage(systemName: "trash")
         deleteAction.backgroundColor = .systemRed
@@ -91,6 +95,8 @@ extension NewsViewController: UITableViewDelegate, UITableViewDataSource {
 
 extension NewsViewController: NewsViewProtocol {
     func showNews(news: [NewsViewModel]) {
+        loadingView.stopAnimating()
+        loadingView.isHidden = true
         newsLista = news
         newsTableView.reloadData()
     }

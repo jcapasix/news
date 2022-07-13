@@ -10,7 +10,7 @@ public class NewsRemoteRepository: NewsRepositoryProtocol {
     
     public init() {}
     
-    public func fetchNews(completion: @escaping (NewsResponse?)-> Void) {
+    public func fetchNews(completion: @escaping ([NewsViewModel]?)-> Void) {
         AF.request(EndPoints.news.value,
                    method: .get,
                    parameters: nil,
@@ -18,7 +18,7 @@ public class NewsRemoteRepository: NewsRepositoryProtocol {
                    headers: nil).responseDecodable(of: NewsResponse.self) { response in
             debugPrint(response)
             if let newsResponse = response.value {
-                completion(newsResponse)
+                completion(NewsViewModel.mapper(hits: newsResponse.hits))
             } else {
                 completion(nil)
             }

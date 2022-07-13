@@ -4,6 +4,10 @@
 //
 //  Created by Jordan Capa on 12-07-22.
 //
+enum DatainConstans {
+    static let empty = ""
+}
+
 
 struct NetworkSettings {
     static let host = "https://hn.algolia.com/api/"

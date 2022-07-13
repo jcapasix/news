@@ -19,6 +19,7 @@
 		502AAC12287E6AD200F2CBF7 /* DataConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502AAC11287E6AD200F2CBF7 /* DataConstants.swift */; };
 		502AAC15287E715700F2CBF7 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 502AAC14287E715700F2CBF7 /* Alamofire */; };
 		502AAC25287EF83200F2CBF7 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 502AAC24287EF83200F2CBF7 /* RealmSwift */; };
+		502AAC2C287F223400F2CBF7 /* NewsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502AAC2A287F222B00F2CBF7 /* NewsViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		502AAC07287E68BE00F2CBF7 /* news.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = news.json; sourceTree = "<group>"; };
 		502AAC09287E692F00F2CBF7 /* NewsResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsResponse.swift; sourceTree = "<group>"; };
 		502AAC11287E6AD200F2CBF7 /* DataConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataConstants.swift; sourceTree = "<group>"; };
+		502AAC2A287F222B00F2CBF7 /* NewsViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		502AABFD287E317700F2CBF7 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				502AAC2A287F222B00F2CBF7 /* NewsViewModel.swift */,
 				502AAC09287E692F00F2CBF7 /* NewsResponse.swift */,
 			);
 			path = Models;
@@ -245,6 +248,7 @@
 				502AABA3287D268600F2CBF7 /* Data.docc in Sources */,
 				502AAC12287E6AD200F2CBF7 /* DataConstants.swift in Sources */,
 				502AAC01287E31CF00F2CBF7 /* NewsRemoteRepository.swift in Sources */,
+				502AAC2C287F223400F2CBF7 /* NewsViewModel.swift in Sources */,
 				502AABDF287D29C400F2CBF7 /* NewsLocalRepository.swift in Sources */,
 				502AAC0A287E692F00F2CBF7 /* NewsResponse.swift in Sources */,
 			);

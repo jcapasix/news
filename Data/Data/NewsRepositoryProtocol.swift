@@ -6,5 +6,5 @@
 //
 
 public protocol NewsRepositoryProtocol {
-    func fetchNews(completion: @escaping (NewsResponse?)-> Void)
+    func fetchNews(completion: @escaping ([NewsViewModel]?)-> Void)
 }

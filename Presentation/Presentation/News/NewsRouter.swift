@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Domain
+import Data
  
 protocol NewsRouterProtocol {
     var view: NewsViewProtocol? { get set }

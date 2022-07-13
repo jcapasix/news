@@ -11,6 +11,7 @@ import Domain
  
 protocol NewsPresenterPortocol {
     var interactor: NewsInteractorProtocol? { get set }
+    func removeNews(new: NewsViewModel)
     func fetchNews()
 }
  
@@ -30,6 +31,14 @@ class NewsPresenter: NewsPresenterPortocol {
                 self?.view?.showNews(news: response)
             }
         }
+    }
+    
+    func removeNews(new: NewsViewModel) {
+        interactor?.removeNews(new: new, completion: { response in
+            if response {
+                self.fetchNews()
+            }
+        })
     }
 }
 

@@ -10,4 +10,5 @@ import Data
 public protocol NewsInteractorProtocol {
     var repository: NewsRepositoryProtocol? {get set}
     func fetchNews(completion: @escaping ([NewsViewModel]?)-> Void)
+    func removeNews(new: NewsViewModel, completion: @escaping (Bool) -> Void) 
 }
